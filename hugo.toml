@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://wayne-xy.com/"
 title = "Wayne X.Y. Blog"
 theme = "cleanwhite"
 languageCode = "en-us"
@@ -68,7 +68,7 @@ home = ["HTML", "RSS", "Algolia"]
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   reward = true 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -119,6 +119,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.additional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"
+  [[params.additional_menus]]
+  title =  "PROJECT"
+  href =  "/project/"
   [[params.additional_menus]]
   title =  "NOTES"
   href =  "/notes/"
