@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Wayne X.Y. Blog"
-theme = "hugo-theme-cleanwhite"
+theme = "cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
